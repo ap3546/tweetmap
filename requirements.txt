@@ -5,7 +5,7 @@ MarkupSafe==0.23
 oauthlib==1.0.3
 requests==2.9.1
 requests-oauthlib==0.6.1
-Werkzeug==0.11.4
+Werkzeug==0.15.3
 wheel==0.29.0
 elasticsearch==2.3.0
 requests-aws4auth==0.9
